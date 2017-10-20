@@ -1,5 +1,5 @@
-﻿# Script to switch SQL Availability Group
-# Daniel Borg 2017-04-20
+# Script to switch SQL Availability Group
+# Requires sqlps module
 param (
 [string] $aggroup = $null
 )
