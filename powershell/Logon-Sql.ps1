@@ -1,5 +1,5 @@
-﻿# Simple script to logon to a SQL instance and run a query.
-
+# Simple script to logon to a SQL instance and run a query.
+# Requires sqlps module
 param (
 [string] $inst = $null,
 [string] $qry = $null
