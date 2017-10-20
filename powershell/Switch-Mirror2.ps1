@@ -1,5 +1,5 @@
-﻿# Script to failover an individual mirrored database or all
-# Daniel Borg - 2017-04-26
+# Script to failover an individual mirrored database or all
+# Requires sqlps module
 
 # Accept Instance Name and/or database name or all as parameters
 
